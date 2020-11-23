@@ -1,4 +1,4 @@
-From docker.elastic.co/apm/apm-server:7.8.1
+From docker.elastic.co/apm/apm-server:7.9.3
 
 USER root
 
